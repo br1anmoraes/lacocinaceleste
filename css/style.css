@@ -159,7 +159,7 @@ video {
     text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.12);
 }
 
-.overlay > p {
+.overlay>p {
     padding-top: 1rem;
 }
 
@@ -263,5 +263,10 @@ button:active {
 
 .text {
     margin-top: 1rem;
+    text-align: center;
+}
+
+form {
+    padding-top: 2rem;
     text-align: center;
 }
